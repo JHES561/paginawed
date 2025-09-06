@@ -1,0 +1,26 @@
+header{
+    background-color:#21A0F5 ;
+    color: white;
+    text-align: center;
+    height: 10vh;
+    width: 40%;
+    margin: 0;
+    padding: 0;
+}    
+main{
+    background-color: #4123A9;
+    color: white;
+    text-align: center;
+    height: 30vh;
+    width: 40%;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: #7C33FC;
+    color: white;
+    text-align: center;
+    width: 40%;
+    margin: 0;
+    padding: 0;
+}
